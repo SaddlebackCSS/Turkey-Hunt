@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>Vince Guaraldi Trio - Thanksgiving Theme.mp3</file>
+        <file>ie_shot_gun-luminalace-770179786.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>thanksgiving-turkey.png</file>
+        <file>bullet.png</file>
+        <file>background.png</file>
+        <file>main-player-hunter.png</file>
+        <file>welcomeScreenThanksgiving.png</file>
+        <file>thanksgiving man.png</file>
+        <file>Turkey.png</file>
+    </qresource>
+</RCC>
